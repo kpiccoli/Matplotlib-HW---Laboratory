@@ -1,4 +1,4 @@
-# Matplotlib-HW---Laboratory
+# Matplotlib_Laboratory
 
 ## Background
 
