@@ -1,5 +1,4 @@
 # Matplotlib-HW---Laboratory
-# Matplotlib Homework - The Power of Plots
 
 ## Background
 
