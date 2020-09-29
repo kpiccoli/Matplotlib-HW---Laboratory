@@ -1,16 +1,16 @@
-PYTHON MATPLOTLIB – LABORATORY STUDY
+## PYTHON MATPLOTLIB – LABORATORY STUDY
 
-Background
+### Background
 Pymaceuticals company began screening for potential treatments for squamous cell carcinoma (SCC). In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
 
-Purpose
+### Purpose
 Generate a technical report of the study.
 
-Dataset
-Mouse_metadata.csv
-Study_results.csv
+### Dataset
+- Mouse_metadata.csv
+- Study_results.csv
 
-Description
+### Description
 1. Remove duplicates
 2. Generate a summary statistics table consisting of the mean, median, variance, standard deviation, and SEM of the tumor volume for each drug regimen.
 3.Generate a bar plot using both Pandas's DataFrame.plot() and Matplotlib's pyplot that shows the number of mice per time point for each treatment regimen throughout the course of the study.
