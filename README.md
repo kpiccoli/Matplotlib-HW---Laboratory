@@ -1,12 +1,9 @@
 ## PYTHON MATPLOTLIB – LABORATORY STUDY
 
-![Lab_Images](Lab.gif)
-
-### Background
-Pymaceuticals company began screening for potential treatments for squamous cell carcinoma (SCC). In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens.
+![Lab_Images](https://i2.imgflip.com/4gr15v.gif)
 
 ### Purpose
-Generate a technical report of the study.
+Pymaceuticals company began screening for potential treatments for squamous cell carcinoma (SCC). In this study, 249 mice identified with SCC tumor growth were treated through a variety of drug regimens. Over the course of 45 days, tumor development was observed and measured. The purpose of this project was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens, and generate a technical report of the study.
 
 ### Dataset
 - Mouse_metadata.csv
